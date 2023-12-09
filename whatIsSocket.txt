@@ -1,0 +1,7 @@
+What is socket? What are the use cases of sockets? Give an example with code snippets of using sockets with Python.
+
+A socket is a software structure that allows programs to communicate over a network. It provides an endpoint for sending or receiving data between systems through the network. Sockets utilize specific protocols to establish connections, send data, and close connections.
+Use cases of sockets include:
+Network Communication: Sockets are fundamental for various network communication applications such as client-server architectures, where programs on different devices communicate with each other.
+Real-Time Data Transfer: They are used for real-time data transfer applications like chat applications, online gaming, and streaming services.
+Distributed Systems: Sockets enable communication between different components of distributed systems, allowing them to exchange information and work together.
